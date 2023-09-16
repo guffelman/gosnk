@@ -8,6 +8,8 @@ import (
 	"github.com/veandco/go-sdl2/ttf"
 )
 
+// this is a change
+
 const (
 	screenWidth      = 640
 	screenHeight     = 480
